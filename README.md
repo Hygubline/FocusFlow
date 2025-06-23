@@ -57,7 +57,6 @@ Open your browser at http://localhost:8000 to confirm:
 {"message":"FocusFlow backend is live"}
 
 ## 🔧 Project Structure
-
 FocusFlow/backend/
 ├─ app/
 │  ├─ db/
